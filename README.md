@@ -29,8 +29,6 @@ astro/
 ├── cli.py            # Основная точка входа компилятора (Python)
 ├── cli.js            # Node.js CLI-обертка для запуска
 ├── package.json      # Конфигурация npm пакета
-└── examples/
-    └── hello.astro   # Примеры компонентов
 
 ```
 
